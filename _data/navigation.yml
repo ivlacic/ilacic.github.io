@@ -10,7 +10,7 @@
 main:
 
   - title: "CV"
-    url: /cv/files/CV_Lacić.pdf
+    url: /files/CV_Lacić.pdf
 
   - title: "Publications"
     url: /publications/

@@ -9,7 +9,7 @@ redirect_from:
 
 👨🏻‍💻 I'm a final year PhD student in Linguistics at the Univeristy of Bologna.
 
-🔬 I'm mostly interested in evaluative morphology, lexical semantics and quantitative/computational approaches to language.
+🔬 I'm mostly interested in derivational (especially evaluative) morphology, lexical semantics and quantitative/computational approaches to language.
 
 ✍🏼 I'm currently working towards my PhD thesis, which applies a broad range of quantitative and computational methods to investigate affix rivalry in Italian evaluative morphology, with a specific focus on intensifying prefixes.
 

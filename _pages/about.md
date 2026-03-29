@@ -13,7 +13,7 @@ redirect_from:
 
 ✍🏼 My PhD thesis employs a wide range of quantitative and computational methods to investigate affix rivalry in Italian evaluative morphology, with a particular focus on intensifying prefixes
 
-## Recent News
+<h2 style="color: #2a7ae2;">Recent News</h2>
 
 - *April, 2026*. About to present preliminary results from a study *A paradigmatic approach to semantic transparency in derivation: From resource construction to large-scale modeling* (with R. Huyghe) at the workshop *Linking Morphology and Semantics: Meaning in Word Formation Resources* at the Catholic University of the Sacred Heart (Milan).
 - *December, 2025*. PhD thesis positively reviewed; defense scheduled for April 2026.

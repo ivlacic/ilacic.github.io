@@ -16,7 +16,7 @@ redirect_from:
 ## Recent News
 
 - *April, 2026*. A paper titled *Linearization in cumulative intensifying prefixation: An information-theoretic perspective*, co-authored with M. Verdelli, has been accepted for an oral presentation at the 22nd International Morphology Meeting, to be held this June in Budapest.
-- *April, 2026*. I successfully defended my PhD thesis.
+- *April, 2026*. I successfully defended my PhD thesis 🍾.
 - *April, 2026*. I will present preliminary results from the study *A paradigmatic approach to semantic transparency in derivation: From resource construction to large-scale modeling* (with R. Huyghe) at the workshop *Linking Morphology and Semantics: Meaning in Word Formation Resources* at the Catholic University of the Sacred Heart (Milan).
 - *December, 2025*. PhD thesis positively reviewed; defense scheduled for April 2026.
 - *December, 2025*. Delivered an invited lecture titled *[Affix rivalry and ordering in Italian: Quantitative evidence from intensifying prefixation](https://www.uzh.ch/de/events/agenda.html?group=70&event=65276)* at the University of Zurich (host: F. Gardani).

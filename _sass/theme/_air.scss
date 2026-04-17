@@ -36,10 +36,10 @@ $sidebar-screen-min-width   : 1024px;
 
 /* Light theme for the site */
 :root {
-    --global-base-color                 : #{$light-primary-color};
+    --global-base-color                 : #{$primary-color};
     --global-bg-color                   : #{$background};
     --global-footer-bg-color            : #{$footer};
-    --global-border-color               : #{$light-primary-color};
+    --global-border-color               : #7c8185;
     --global-dark-border-color          : #{$background-light};
     --global-code-background-color      : #fafafa;
     --global-code-text-color            : #{$darker-primary-color};

@@ -16,7 +16,7 @@ redirect_from:
 ## Recent News
 
 - *April, 2026*. A paper titled *Linearization in cumulative intensifying prefixation: An information-theoretic perspective*, co-authored with M. Verdelli, has been accepted for an oral presentation at the *[22nd International Morphology Meeting](https://nytud.hun-ren.hu/en/event/22nd-international-morphology-meeting-2)*, to be held this June in Budapest.
-- *April, 2026*. Presented preliminary results from the study *A paradigmatic approach to semantic transparency in derivation: From resource construction to large-scale modeling*, co-authored with R. Huyghe, at the workshop *[Linking Morphology and Semantics: Meaning in Word Formation Resources](https://www.uzh.ch/de/events/agenda.html?group=70&event=65276](https://www.unicatt.it/en/events/events/milan/2026/Linking-morphology.html)* at the Catholic University of the Sacred Heart (Milan).
+- *April, 2026*. Presented preliminary results from the study *A paradigmatic approach to semantic transparency in derivation: From resource construction to large-scale modeling*, co-authored with R. Huyghe, at the workshop *[Linking Morphology and Semantics: Meaning in Word Formation Resources](https://www.unicatt.it/en/events/events/milan/2026/Linking-morphology.html)* at the Catholic University of the Sacred Heart (Milan).
 - *April, 2026*. Successfully defended my PhD thesis with the highest distinction (*eccellente con lode*) 🍾.
 - *December, 2025*. PhD thesis positively reviewed; defense scheduled for April 2026.
 - *December, 2025*. Delivered an invited lecture titled *[Affix rivalry and ordering in Italian: Quantitative evidence from intensifying prefixation](https://www.uzh.ch/de/events/agenda.html?group=70&event=65276)* at the University of Zurich (host: F. Gardani).

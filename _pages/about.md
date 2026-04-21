@@ -11,7 +11,7 @@ redirect_from:
 
 🎓 I earned my PhD from the University of Bologna in April 2026, with a thesis on empirical approaches to rivalry in Italian intensifying prefixation.
 
-🔬 My research interests lie primarily in derivational (especially evaluative) morphology, morphosemantics, and quantitative/computational approaches to language.
+🔬 My research interests lie primarily in derivational (especially evaluative) morphology, morphosemantics, and quantitative/computational approaches to natural languages.
 
 ## Recent News
 

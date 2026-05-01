@@ -22,7 +22,7 @@ repository               : "ivlacic/ilacic.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "Profile.jpeg"
+  avatar           : "Profile.png"
   name             : "Ivan Lacić"
   pronouns         : # example: "she/her"  
   bio              : ""

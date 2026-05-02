@@ -15,7 +15,6 @@ redirect_from:
 
 🔬 My research interests lie primarily in derivational (especially evaluative) morphology, morphosemantics, and quantitative/computational approaches to natural languages.
 
-<br>
 
 ## Recent News
 

@@ -7,6 +7,7 @@ redirect_from:
   - /about.html
 ---
 
+
 👋🏼 I'm a linguist with a background in morphology and morphosemantics.
 
 🎓 I earned my PhD from the University of Bologna in April 2026, with a thesis on empirical approaches to rivalry in Italian intensifying prefixation.

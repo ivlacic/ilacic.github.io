@@ -1,17 +1,20 @@
 ---
 permalink: /
-title: "Hi, I'm Ivan"
+title: "Hi, I'm Ivan!"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-👨🏻‍💻 I'm a linguist with a background in morphology and morphosemantics.
+👋🏼 I'm a linguist with a background in morphology and morphosemantics.
 
 🎓 I earned my PhD from the University of Bologna in April 2026, with a thesis on empirical approaches to rivalry in Italian intensifying prefixation.
 
 🔬 My research interests lie primarily in derivational (especially evaluative) morphology, morphosemantics, and quantitative/computational approaches to natural languages.
+
+👨🏻‍💻 From June 2026, I will join the [Formal Linguistics Research Group (GLiF)](https://www.upf.edu/web/glif) at the Universitat Pompeu Fabra as a postdoctoral researcher. 
+
 
 ## Recent News
 

@@ -33,6 +33,7 @@ $garamond                   : Garamond, serif;
 $lora                       : "Lora", Georgia, serif;
 $crimson-pro                : "Crimson Pro", Georgia, serif;
 $merriweather               : "Merriweather", Georgia, serif;
+$inter                      : "Inter", -apple-system, sans-serif;
 
 /* Type scale */
 $type-size-1                : 2.441em;  // ~39.056px
@@ -44,9 +45,9 @@ $type-size-6                : 0.75em;   // ~12px
 $type-size-7                : 0.6875em; // ~11px
 $type-size-8                : 0.625em;  // ~10px
 
-$global-font-family         : $merriweather;
-$header-font-family         : $merriweather;
-$caption-font-family        : $merriweather;
+$global-font-family         : $inter;
+$header-font-family         : $inter;
+$caption-font-family        : $inter;
 
 /* ==========================================================================
    Breakpoints

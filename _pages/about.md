@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-<br>
+<div class="page-spacer"></div>
 
 👋🏼 I'm a linguist with a background in morphology and morphosemantics.
 

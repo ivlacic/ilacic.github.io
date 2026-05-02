@@ -13,8 +13,6 @@ redirect_from:
 
 🔬 My research interests lie primarily in derivational (especially evaluative) morphology, morphosemantics, and quantitative/computational approaches to natural languages.
 
-👨🏻‍💻 From June 2026, I will join the [Formal Linguistics Research Group (GLiF)](https://www.upf.edu/web/glif) at the Universitat Pompeu Fabra as a postdoctoral researcher. 
-
 
 
 ## Recent News

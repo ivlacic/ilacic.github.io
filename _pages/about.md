@@ -9,9 +9,9 @@ redirect_from:
 
 <div class="page-spacer"></div>
 <div class="intro-text">
-<span class="emoji">👋🏼</span> I'm a linguist with a background in morphology and morphosemantics.<br>
-<span class="emoji">🎓</span> I earned my PhD from the University of Bologna in April 2026, with a thesis on empirical approaches to rivalry in Italian intensifying prefixation.<br>
-<span class="emoji">🔬</span> My research interests lie primarily in derivational (evaluative) morphology, morphosemantics, and quantitative/computational approaches to natural languages.
+<p><span class="emoji">👋🏼</span> I'm a linguist with a background in morphology and morphosemantics.</p>
+<p><span class="emoji">🎓</span> I earned my PhD from the University of Bologna in April 2026, with a thesis on empirical approaches to rivalry in Italian intensifying prefixation.</p>
+<p><span class="emoji">🔬</span> My research interests lie primarily in derivational (evaluative) morphology, morphosemantics, and quantitative/computational approaches to natural languages.</p>
 </div>
 
 ## News

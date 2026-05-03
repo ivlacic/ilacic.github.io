@@ -15,6 +15,53 @@ redirect_from:
 
 🔬 My research interests lie primarily in derivational (especially evaluative) morphology, morphosemantics, and quantitative/computational approaches to natural languages.
 
+## News
+
+<input type="checkbox" id="news-toggle" style="display:none;">
+
+<ul class="news-list">
+  <li class="news-item"><span class="news-date">Apr 2026</span> I successfully defended my PhD at the <b>University of Bologna</b>.</li>
+  <li class="news-item"><span class="news-date">Mar 2026</span> New paper on <b>Italian intensifying prefixation</b> submitted to journal X.</li>
+  <li class="news-item"><span class="news-date">Jan 2026</span> Presented at <b>Conference Name</b> in City.</li>
+  <!-- older items below are hidden by default -->
+  <li class="news-item extra-news"><span class="news-date">Nov 2025</span> Talk at <b>Workshop on Evaluative Morphology</b>.</li>
+  <li class="news-item extra-news"><span class="news-date">Jun 2025</span> Paper accepted at <b>Journal of Linguistics</b>.</li>
+</ul>
+
+<div class="btn-wrap">
+  <label for="news-toggle" class="more-btn">Show More ↓</label>
+  <label for="news-toggle" class="less-btn">Show Less ↑</label>
+</div>
+
+<style>
+.news-list { list-style: none; padding: 0; }
+.news-item {
+  font-size: 0.95em;
+  margin-bottom: 10px;
+  padding-left: 10px;
+  border-left: 3px solid #f1f1f1;
+  line-height: 1.5;
+}
+.news-date {
+  font-weight: bold;
+  color: #2980b9;
+  margin-right: 10px;
+}
+.extra-news { display: none; }
+#news-toggle:checked ~ .news-list .extra-news { display: list-item; }
+.btn-wrap { text-align: left; margin-top: 15px; }
+.more-btn, .less-btn {
+  border: 1px solid #2980b9;
+  color: #2980b9;
+  padding: 3px 12px;
+  border-radius: 12px;
+  cursor: pointer;
+  font-size: 0.75em;
+}
+#news-toggle:checked ~ .btn-wrap .more-btn { display: none; }
+#news-toggle:checked ~ .btn-wrap .less-btn { display: inline-block; }
+.less-btn { display: none; }
+</style>
 
 ## Recent News
 

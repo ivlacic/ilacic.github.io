@@ -75,7 +75,7 @@ redirect_from:
   font-size: 0.95em;
   margin-bottom: 10px;
   padding-left: 10px;
-  border-left: 3px solid #f1f1f1;
+  border-left: 3px solid #d8e0e8;
   line-height: 1.5;
 }
 .news-date {

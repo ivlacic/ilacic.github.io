@@ -73,7 +73,7 @@ redirect_from:
   font-size: 0.95em;
   margin-bottom: 10px;
   padding-left: 10px;
-  border-left: 3px solid #d8e0e8;
+  border-left: 3.2px solid #ccdbd3;
   line-height: 1.5;
 }
 .news-date {
@@ -83,8 +83,8 @@ redirect_from:
 }
 .btn-wrap { text-align: left; margin-top: 15px; }
 .more-btn {
-  border: 1px solid #2980b9;
-  color: #2980b9;
+  border: 1px solid #007532;
+  color: #007532;
   padding: 3px 12px;
   border-radius: 12px;
   cursor: pointer;

@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "air"
-title                    : "Ivan's Homepage"
+title                    : "Ivan Lacić"
 title_separator          : "-"
 name                     : &name "Ivan Lacić"
 description              : &description "personal description"

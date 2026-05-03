@@ -15,6 +15,7 @@ redirect_from:
 
 🔬 My research interests lie primarily in derivational (especially evaluative) morphology, morphosemantics, and quantitative/computational approaches to natural languages.
 
+
 ## Recent News
 
 <ul class="news-list" id="news-list">
@@ -30,15 +31,15 @@ redirect_from:
     <span class="news-date">Apr 2026</span>
     Successfully defended my PhD dissertation with the highest distinction (<em>eccellente con lode</em>) 🍾.
   </li>
-  <li class="news-item extra-news" style="display:none;">
+  <li class="news-item">
     <span class="news-date">Dec 2025</span>
     PhD dissertation positively reviewed; defense scheduled for April.
   </li>
-  <li class="news-item extra-news" style="display:none;">
+  <li class="news-item">
     <span class="news-date">Dec 2025</span>
     Delivered an invited lecture titled <a href="https://www.uzh.ch/de/events/agenda.html?group=70&event=65276"><em>Affix rivalry and ordering in Italian: Quantitative evidence from intensifying prefixation</em></a> at the University of Zurich (host: F. Gardani).
   </li>
-  <li class="news-item extra-news" style="display:none;">
+  <li class="news-item">
     <span class="news-date">Sep 2025</span>
     Presented <a href="https://www.researchgate.net/publication/395260826_InTens_-_A_dataset_of_Italian_intensified_derivatives_Description_and_application_in_a_productivity_study"><em>InTens – a dataset of Italian intensified derivatives: Description and application in a productivity study</em></a> at the Fifth International Workshop on Resources and Tools for Derivational Morphology (DeriMo).
   </li>

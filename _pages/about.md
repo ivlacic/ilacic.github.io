@@ -105,3 +105,9 @@ function toggleNews() {
   btn.setAttribute('data-expanded', !expanded);
 }
 </script>
+
+## News
+
+For discussions, collaborations, or general inquiries, don't hesitate to get in touch.
+My contact details are available through the links in the sidebar.
+

@@ -15,17 +15,55 @@ redirect_from:
 
 🔬 My research interests lie primarily in derivational (especially evaluative) morphology, morphosemantics, and quantitative/computational approaches to natural languages.
 
-## News
+## Recent News
 
 <input type="checkbox" id="news-toggle" style="display:none;">
 
 <ul class="news-list">
-  <li class="news-item"><span class="news-date">Apr 2026</span> A paper titled <i>Linearization in cumulative intensifying prefixation: An information-theoretic perspective<i>, co-authored with M. Verdelli, has been accepted for an oral presentation at the <i>[22nd International Morphology Meeting](https://nytud.hun-ren.hu/en/event/22nd-international-morphology-meeting-2)<i>, to be held this June in Budapest.</b>.</li>
-  <li class="news-item"><span class="news-date">Mar 2026</span> New paper on <b>Italian intensifying prefixation</b> submitted to journal X.</li>
-  <li class="news-item"><span class="news-date">Jan 2026</span> Presented at <b>Conference Name</b> in City.</li>
-  <!-- older items below are hidden by default -->
-  <li class="news-item extra-news"><span class="news-date">Nov 2025</span> Talk at <b>Workshop on Evaluative Morphology</b>.</li>
-  <li class="news-item extra-news"><span class="news-date">Jun 2025</span> Paper accepted at <b>Journal of Linguistics</b>.</li>
+  <li class="news-item">
+    <span class="news-date">Apr 2026</span>
+    A paper titled <em>Linearization in cumulative intensifying prefixation: An information-theoretic perspective</em>, co-authored with M. Verdelli, has been accepted for an oral presentation at the <a href="https://nytud.hun-ren.hu/en/event/22nd-international-morphology-meeting-2"><em>22nd International Morphology Meeting</em></a>, to be held this June in Budapest.
+  </li>
+  <li class="news-item">
+    <span class="news-date">Apr 2026</span>
+    Presented preliminary results of <em>A paradigmatic approach to semantic transparency in derivation: From resource construction to large-scale modeling</em>, co-authored with R. Huyghe, at the workshop <a href="https://www.unicatt.it/en/events/events/milan/2026/Linking-morphology.html"><em>Linking Morphology and Semantics: Meaning in Word Formation Resources</em></a> at the Catholic University of the Sacred Heart (Milan).
+  </li>
+  <li class="news-item">
+    <span class="news-date">Apr 2026</span>
+    Successfully defended my PhD dissertation with the highest distinction (<em>eccellente con lode</em>) 🍾.
+  </li>
+  <li class="news-item extra-news">
+    <span class="news-date">Dec 2025</span>
+    PhD dissertation positively reviewed; defense scheduled for April.
+  </li>
+  <li class="news-item extra-news">
+    <span class="news-date">Dec 2025</span>
+    Delivered an invited lecture titled <a href="https://www.uzh.ch/de/events/agenda.html?group=70&event=65276"><em>Affix rivalry and ordering in Italian: Quantitative evidence from intensifying prefixation</em></a> at the University of Zurich (host: F. Gardani).
+  </li>
+  <li class="news-item extra-news">
+    <span class="news-date">Sep 2025</span>
+    Presented <a href="https://www.researchgate.net/publication/395260826_InTens_-_A_dataset_of_Italian_intensified_derivatives_Description_and_application_in_a_productivity_study"><em>InTens – a dataset of Italian intensified derivatives: Description and application in a productivity study</em></a> at the Fifth International Workshop on Resources and Tools for Derivational Morphology (DeriMo).
+  </li>
+  <li class="news-item extra-news">
+    <span class="news-date">Aug 2025</span>
+    Presented a poster titled <a href="https://www.researchgate.net/publication/395133094_Affix_rivalry_reconsidered_The_role_of_non-canonical_features_in_statistical_modeling_of_evaluative_morphology"><em>Affix rivalry reconsidered: The role of non-canonical linguistic features in statistical modeling of evaluative morphology</em></a> at the 58th Annual Meeting of the Societas Linguistica Europaea.
+  </li>
+  <li class="news-item extra-news">
+    <span class="news-date">Jun 2025</span>
+    Presented <a href="https://www.upjs.sk/app/uploads/sites/7/2024/11/ABSTRACTS-EVALUATIVE-MORPHOLOGY-WORKSHOP.pdf"><em>Rivalry in Italian intensifying prefixation: An analysis of discriminative features</em></a> at the workshop <em>Latest developments in evaluative morphology</em> (Word-Formation Theories VII & Typology and Universals in Word-Formation VI).
+  </li>
+  <li class="news-item extra-news">
+    <span class="news-date">Jun 2025</span>
+    Presented <a href="https://conference.unizd.hr/mmm14/programme/"><em>Modeling productivity and semantic transparency of rival affixes: The case of Italian intensifying prefixes</em></a> at the 14th Mediterranean Morphology Meeting.
+  </li>
+  <li class="news-item extra-news">
+    <span class="news-date">May 2025</span>
+    Presented <a href="https://corpora.ficlit.unibo.it/CLUB/FILES/CLUBday2025_Programma.pdf"><em>Machine learning al servizio della morfologia: Due analisi di classificazione</em></a> at CLUB (Circolo Linguistico dell'Università di Bologna) Day 2025.
+  </li>
+  <li class="news-item extra-news">
+    <span class="news-date">Jan 2025</span>
+    Presented <a href="https://aclanthology.org/2025.gwc-1.34/"><em>Deriving semantic classes of Italian adjectives via word embeddings: A large-scale investigation</em></a> (with L. Pannitto) at the 13th International Global Wordnet Conference.
+  </li>
 </ul>
 
 <div class="btn-wrap">
@@ -62,17 +100,3 @@ redirect_from:
 #news-toggle:checked ~ .btn-wrap .less-btn { display: inline-block; }
 .less-btn { display: none; }
 </style>
-
-## Recent News
-
-- *April, 2026*. A paper titled *Linearization in cumulative intensifying prefixation: An information-theoretic perspective*, co-authored with M. Verdelli, has been accepted for an oral presentation at the *[22nd International Morphology Meeting](https://nytud.hun-ren.hu/en/event/22nd-international-morphology-meeting-2)*, to be held this June in Budapest.
-- *April, 2026*. Presented preliminary results of the study *A paradigmatic approach to semantic transparency in derivation: From resource construction to large-scale modeling*, co-authored with R. Huyghe, at the workshop *[Linking Morphology and Semantics: Meaning in Word Formation Resources](https://www.unicatt.it/en/events/events/milan/2026/Linking-morphology.html)* at the Catholic University of the Sacred Heart (Milan).
-- *April, 2026*. Successfully defended my PhD dissertation with the highest distinction (*eccellente con lode*) 🍾.
-- *December, 2025*. PhD dissertation positively reviewed; defense scheduled for April.
-- *December, 2025*. Delivered an invited lecture titled *[Affix rivalry and ordering in Italian: Quantitative evidence from intensifying prefixation](https://www.uzh.ch/de/events/agenda.html?group=70&event=65276)* at the University of Zurich (host: F. Gardani).
-- *September, 2025*. Presented a dataset developed for the PhD thesis in a paper titled *[InTens – a dataset of Italian intensified derivatives: Description and application in a productivity study](https://www.researchgate.net/publication/395260826_InTens_-_A_dataset_of_Italian_intensified_derivatives_Description_and_application_in_a_productivity_study)* at the Fifth International Workshop on Resources and Tools for Derivational Morphology (DeriMo).
-- *August, 2025*. Presented a poster titled *[Affix rivalry reconsidered: The role of non-canonical linguistic features in statistical modeling of evaluative morphology](https://www.researchgate.net/publication/395133094_Affix_rivalry_reconsidered_The_role_of_non-canonical_features_in_statistical_modeling_of_evaluative_morphology)* at the 58th Annual Meeting of the Societas Linguistica Europaea.
-- *June, 2025*. Presented a talk titled *[Rivalry in Italian intensifying prefixation: An analysis of discriminative features](https://www.upjs.sk/app/uploads/sites/7/2024/11/ABSTRACTS-EVALUATIVE-MORPHOLOGY-WORKSHOP.pdf)* at the workshop *Latest developments in evaluative morphology* (Word-Formation Theories VII & Typology and Universals in Word-Formation VI).
-- *June, 2025*. Presented a talk titled *[Modeling productivity and semantic transparency of rival affixes: The case of Italian intensifying prefixes](https://conference.unizd.hr/mmm14/programme/)* at the 14th Mediterranean Morphology Meeting.
-- *May, 2025*. Presented a talk titled *[Machine learning al servizio della morfologia: Due analisi di classificazione](https://corpora.ficlit.unibo.it/CLUB/FILES/CLUBday2025_Programma.pdf)* at CLUB (Circolo Linguistico dell'Università di Bologna) Day 2025.
-- *January, 2025*. Presented a paper titled *[Deriving semantic classes of Italian adjectives via word embeddings: A large-scale investigation](https://aclanthology.org/2025.gwc-1.34/)* (with L. Pannitto) at the 13th International Global Wordnet Conference.

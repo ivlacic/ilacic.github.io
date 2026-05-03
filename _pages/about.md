@@ -78,7 +78,7 @@ redirect_from:
 }
 .news-date {
   font-weight: bold;
-  color: #2980b9;
+  color: #007532;
   margin-right: 10px;
 }
 .btn-wrap { text-align: left; margin-top: 15px; }

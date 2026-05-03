@@ -20,7 +20,7 @@ redirect_from:
 <input type="checkbox" id="news-toggle" style="display:none;">
 
 <ul class="news-list">
-  <li class="news-item"><span class="news-date">Apr 2026</span> A paper titled *Linearization in cumulative intensifying prefixation: An information-theoretic perspective*, co-authored with M. Verdelli, has been accepted for an oral presentation at the *[22nd International Morphology Meeting](https://nytud.hun-ren.hu/en/event/22nd-international-morphology-meeting-2)*, to be held this June in Budapest.</b>.</li>
+  <li class="news-item"><span class="news-date">Apr 2026</span> A paper titled <i>Linearization in cumulative intensifying prefixation: An information-theoretic perspective<i>, co-authored with M. Verdelli, has been accepted for an oral presentation at the *[22nd International Morphology Meeting](https://nytud.hun-ren.hu/en/event/22nd-international-morphology-meeting-2)*, to be held this June in Budapest.</b>.</li>
   <li class="news-item"><span class="news-date">Mar 2026</span> New paper on <b>Italian intensifying prefixation</b> submitted to journal X.</li>
   <li class="news-item"><span class="news-date">Jan 2026</span> Presented at <b>Conference Name</b> in City.</li>
   <!-- older items below are hidden by default -->

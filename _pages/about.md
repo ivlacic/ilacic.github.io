@@ -10,7 +10,7 @@ redirect_from:
 <div class="page-spacer"></div>
 <div class="intro-text">
 <p><span class="emoji">👋🏼</span> I'm a linguist with a background in morphology and morphosemantics.</p>
-<p><span class="emoji">🎓</span> I earned my PhD from the University of Bologna in April 2026, with a thesis on empirical approaches to rivalry in Italian intensifying prefixation.</p>
+<p><span class="emoji">🎓</span> I earned my PhD from the University of Bologna in April 2026, with a thesis on empirical approaches to rivalry in Italian intensifying prefixation, supervised by Nicola Grandi and Francesca Masini.</p>
 <p><span class="emoji">🔬</span> My research interests lie primarily in derivational (evaluative) morphology, morphosemantics, and quantitative/computational approaches to natural languages.</p>
 <p><span class="emoji">👨🏻‍💻</span> From June 2026, I will join the <a href="https://www.upf.edu/web/glif">Formal Linguistics Research Group (GLiF)</a> at the Pompeu Fabra University as a postdoctoral researcher.</p> 
 </div>

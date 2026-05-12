@@ -76,3 +76,19 @@
 .page__footer a {
   color: #ffffff;
 }
+
+/* Style links in intro text */
+.intro-text a {
+  color: #4a4a4a;
+  text-decoration: none;
+
+  &:hover {
+    color: #2a2a2a;
+    text-decoration: none;
+  }
+
+  &:visited {
+    color: #4a4a4a;
+    text-decoration: none;
+  }
+}

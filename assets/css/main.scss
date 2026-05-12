@@ -91,4 +91,8 @@
     color: #4a4a4a !important;
     text-decoration: none !important;
   }
+
+  &::after {
+    display: none !important;
+  }
 }

@@ -79,14 +79,11 @@
 
 /* Style links in text */
 a {
-  color: #000000 !important;
   text-decoration: none !important;
   &:hover {
-    color: #2a2a2a !important;
     text-decoration: none !important;
   }
   &:visited {
-    color: #000000 !important;
     text-decoration: none !important;
   }
   &::after {

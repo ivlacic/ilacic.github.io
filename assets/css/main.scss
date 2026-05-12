@@ -77,20 +77,24 @@
   color: #ffffff;
 }
 
-/* Style links in intro text */
+/* Style links in text */
 a {
-  color: #4C9E6F !important;
   text-decoration: none !important;
   &:hover {
-    color: #99C7AD !important;
     text-decoration: none !important;
   }
   &:visited {
-    color: #4C9E6F !important;
     text-decoration: none !important;
   }
   &::after {
     display: none !important;
+  }
+}
+
+.intro-text a {
+  color: #32905A !important;
+  &:hover {
+    color: #7FBA98 !important;
   }
 }
 

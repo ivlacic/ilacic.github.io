@@ -78,21 +78,23 @@
 }
 
 /* Style links in intro text */
-.intro-text a {
-  color: #7FBA98 !important;
+a {
+  color: #4C9E6F !important;
   text-decoration: none !important;
-
   &:hover {
-    color: #2a2a2a !important;
+    color: #99C7AD !important;
     text-decoration: none !important;
   }
-
   &:visited {
-    color: #7FBA98 !important;
+    color: #4C9E6F !important;
     text-decoration: none !important;
   }
-
   &::after {
     display: none !important;
   }
+}
+
+/* Keep footer links white */
+.page__footer a {
+  color: #ffffff !important;
 }

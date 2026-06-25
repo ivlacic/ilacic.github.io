@@ -9,7 +9,7 @@ redirect_from:
 
 <div class="page-spacer"></div>
 <div class="intro-text">
-<p><span class="emoji">👋🏼</span> I'm a postdoctoral researcher in the <a href="https://www.upf.edu/web/glif">Formal Linguistics Research Group (GLiF)</a> at the Pompeu Fabra University, where I work under the supervision of <a href="https://www.upf.edu/web/mcnally">Louise McNally</a>.</p> 
+<p><span class="emoji">👋🏼</span> I'm a postdoctoral researcher in the <a href="https://www.upf.edu/web/glif">Formal Linguistics Research Group (GLiF)</a> at Pompeu Fabra University, where I work under the supervision of <a href="https://www.upf.edu/web/mcnally">Louise McNally</a>.</p> 
 <p><span class="emoji">🎓</span> I received my PhD from the University of Bologna in April 2026, with a thesis on empirical approaches to rivalry in Italian intensifying prefixation, supervised by <a href="https://scholar.google.com/citations?user=c6FoVRsAAAAJ&hl=en">Nicola Grandi</a> and <a href="https://www.unibo.it/sitoweb/francesca.masini/en">Francesca Masini</a>.</p>
 <p><span class="emoji">🔬</span> My research interests lie primarily in derivational (evaluative) morphology, morphosemantics, and quantitative/computational approaches to natural languages.</p>
 </div>
@@ -17,6 +17,10 @@ redirect_from:
 ## News
 
 <ul class="news-list" id="news-list">
+  <li class="news-item">
+    <span class="news-date">Jun 2026</span>
+    Joined the <a href="https://www.upf.edu/web/glif">Formal Linguistics Research Group (GLiF)</a> at Pompeu Fabra University as a postdoctoral researcher.
+  </li>
   <li class="news-item">
     <span class="news-date">Apr 2026</span>
     A paper titled <em>Linearization in cumulative intensifying prefixation: An information-theoretic perspective</em>, co-authored with M. Verdelli, has been accepted for an oral presentation at the <a href="https://nytud.hun-ren.hu/en/event/22nd-international-morphology-meeting-2"><em>22nd International Morphology Meeting</em></a>, to be held this June in Budapest.

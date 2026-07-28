@@ -19,10 +19,11 @@ redirect_from:
 <ul class="news-list" id="news-list">
   <li class="news-item">
     <span class="news-date"></span>
-    Presented a paper titled <em>Linearization in cumulative intensifying prefixation: An information-theoretic perspective</em>, co-authored with M. Verdelli, at the <a  href="https://nytud.hun-ren.hu/en/event/22nd-international-morphology-meeting-2"><em>22nd International Morphology Meeting</em></a> in Budapest.
+    Exploring the role of derivational paradigms in shaping semantic transparency of complex words, together with <a href="https://www.unifr.ch/llf/fr/departement/equipe/richard-huyghe.html">Richard Huyghe.
+    </li>
     <li class="news-item">
     <span class="news-date"></span>
-    Presented a paper titled <em>Linearization in cumulative intensifying prefixation: An information-theoretic perspective</em>, co-authored with M. Verdelli, at the <a  href="https://nytud.hun-ren.hu/en/event/22nd-international-morphology-meeting-2"><em>22nd International Morphology Meeting</em></a> in Budapest.
+    Examining the usage-based factors which influence the ordering of intensifying prefixes in culumative costructions, together with <a href="https://www.unifr.ch/llf/fr/departement/equipe/richard-huyghe.html">M. Verdelli.
   </li>
   </li>
 </ul>

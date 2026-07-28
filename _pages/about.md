@@ -18,7 +18,10 @@ redirect_from:
 
 <ul class="news-list" id="news-list">
   <li class="news-item">
-    <span class="news-date">Jun 2026</span>
+    <span class="news-date"></span>
+    Presented a paper titled <em>Linearization in cumulative intensifying prefixation: An information-theoretic perspective</em>, co-authored with M. Verdelli, at the <a  href="https://nytud.hun-ren.hu/en/event/22nd-international-morphology-meeting-2"><em>22nd International Morphology Meeting</em></a> in Budapest.
+    <li class="news-item">
+    <span class="news-date"></span>
     Presented a paper titled <em>Linearization in cumulative intensifying prefixation: An information-theoretic perspective</em>, co-authored with M. Verdelli, at the <a  href="https://nytud.hun-ren.hu/en/event/22nd-international-morphology-meeting-2"><em>22nd International Morphology Meeting</em></a> in Budapest.
   </li>
   </li>

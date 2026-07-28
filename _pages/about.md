@@ -19,23 +19,23 @@ redirect_from:
 <ul class="news-list" id="news-list">
   <li class="news-item">
     <span class="news-date">Proposal</span>
-    Finishing up the writing of my MSCA project proposal, sponsored by <a href="https://www.upf.edu/web/mcnally">Louise McNally</a>.
+    Finalizing my MSCA fellowship proposal, hosted by <a href="https://www.upf.edu/web/mcnally">Louise McNally</a>.
   </li>
   <li class="news-item">
     <span class="news-date">Research</span>
-    Exploring the role of derivational paradigms in shaping semantic transparency of complex words, together with <a href="https://www.unifr.ch/llf/fr/departement/equipe/richard-huyghe.html">R. Huyghe</a>.
+    Investigating how derivational paradigms shape the semantic transparency of complex words with <a href="https://www.unifr.ch/llf/fr/departement/equipe/richard-huyghe.html">R. Huyghe</a>.
   </li>
   <li class="news-item">
     <span class="news-date">Research</span>
-    Examining the usage-based factors that influence the ordering of intensifying prefixes in cumulative constructions, together with M. Verdelli.
+    Studying the usage-based factors governing the ordering of intensifying prefixes in cumulative constructions with M. Verdelli.
   </li>
   <li class="news-item">
     <span class="news-date">Workshop</span>
-    Organizing a workshop <em>Semantics and Word Formation</em> in Barcelona for Spring 2027; the call for papers will be out soon.
+    Co-organizing the workshop <em>Semantics and Word Formation</em> in Barcelona (Spring 2027); the call for papers will be announced soon.
   </li>
   <li class="news-item">
     <span class="news-date">Group</span>
-    Organizing a new morphology discussion group at UPF, starting Fall 2026.
+    Launching a morphology discussion group at UPF in Fall 2026.
   </li>
 </ul>
 

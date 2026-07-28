@@ -31,7 +31,7 @@ redirect_from:
   </li>
   <li class="news-item">
     <span class="news-date">Workshop</span>
-    Organizing a workshop, <em>Semantics and Word Formation</em>, in Barcelona for Spring 2027; the call for papers will be out soon.
+    Organizing a workshop <em>Semantics and Word Formation</em> in Barcelona for Spring 2027; the call for papers will be out soon.
   </li>
   <li class="news-item">
     <span class="news-date">Group</span>

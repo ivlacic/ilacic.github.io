@@ -19,11 +19,11 @@ redirect_from:
 <ul class="news-list" id="news-list">
   <li class="news-item">
     <span class="news-date">Jun 2026</span>
-    Joined the <a href="https://www.upf.edu/web/glif">Formal Linguistics Research Group (GLiF)</a> at Pompeu Fabra University as a postdoctoral researcher.
+    Presented a paper titled <em>Linearization in cumulative intensifying prefixation: An information-theoretic perspective</em>, co-authored with M. Verdelli, at the <a  href="https://nytud.hun-ren.hu/en/event/22nd-international-morphology-meeting-2"><em>22nd International Morphology Meeting</em></a> in Budapest.
   </li>
   <li class="news-item">
-    <span class="news-date">Apr 2026</span>
-    A paper titled <em>Linearization in cumulative intensifying prefixation: An information-theoretic perspective</em>, co-authored with M. Verdelli, has been accepted for an oral presentation at the <a href="https://nytud.hun-ren.hu/en/event/22nd-international-morphology-meeting-2"><em>22nd International Morphology Meeting</em></a>, to be held this June in Budapest.
+    <span class="news-date">Jun 2026</span>
+    Joined the <a href="https://www.upf.edu/web/glif">Formal Linguistics Research Group (GLiF)</a> at Pompeu Fabra University as a postdoctoral researcher.
   </li>
   <li class="news-item">
     <span class="news-date">Apr 2026</span>

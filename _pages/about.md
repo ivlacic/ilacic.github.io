@@ -19,7 +19,7 @@ redirect_from:
 <ul class="news-list" id="news-list">
   <li class="news-item">
     <span class="news-date">Proposal</span>
-    Finishing up my MSCA project proposal, sponsored by <a href="https://www.upf.edu/web/mcnally">Louise McNally</a>.
+    Finishing up the writing of my MSCA project proposal, sponsored by <a href="https://www.upf.edu/web/mcnally">Louise McNally</a>.
   </li>
   <li class="news-item">
     <span class="news-date">Research</span>

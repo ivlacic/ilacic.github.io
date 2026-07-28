@@ -14,6 +14,8 @@ redirect_from:
 <p><span class="emoji">🧐</span> My research interests lie primarily in derivational (evaluative) morphology, morphosemantics, and quantitative/computational approaches to natural language.</p>
 </div>
 
+## Current projects
+
 ## News
 
 <ul class="news-list" id="news-list">

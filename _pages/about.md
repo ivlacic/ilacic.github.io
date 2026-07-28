@@ -23,7 +23,7 @@ redirect_from:
   </li>
   <li class="news-item">
     <span class="news-date">Research</span>
-    Exploring the role of derivational paradigms in shaping semantic transparency of complex words, together with <a href="https://www.unifr.ch/llf/fr/departement/equipe/richard-huyghe.html">Richard Huyghe</a>.
+    Exploring the role of derivational paradigms in shaping semantic transparency of complex words, together with <a href="https://www.unifr.ch/llf/fr/departement/equipe/richard-huyghe.html">R. Huyghe</a>.
   </li>
   <li class="news-item">
     <span class="news-date">Research</span>

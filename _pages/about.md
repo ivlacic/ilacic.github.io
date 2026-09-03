@@ -31,7 +31,7 @@ redirect_from:
   </li>
   <li class="news-item">
     <span class="news-date">Workshop</span>
-    Co-organizing the workshop <a href="https://www.upf.edu/web/glif/semantics-and-w-f-workshop"><em>Semantics and Word Formation</em> in Barcelona (April 2027).
+    Co-organizing the workshop <a href="https://www.upf.edu/web/glif/semantics-and-w-f-workshop"><em>Semantics and Word Formation</em></a> in Barcelona (April 2027).
   </li>
   <li class="news-item">
     <span class="news-date">Group</span>

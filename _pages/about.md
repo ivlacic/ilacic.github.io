@@ -43,6 +43,14 @@ redirect_from:
 
 <ul class="news-list" id="news-list">
   <li class="news-item">
+    <span class="news-date">Sept 2026</span>
+    A paper titled <em>Paradigmatic, not dyadic: Revisiting the role of semantic transparency in complex word processing</em>, co-authored with R. Huyghe, accepted for presentation at the <a href="https://cpl2026.sites.uu.nl/"><em>Computational Psycholinguistics Meeting 2026</em></a> in Utrecht.
+  </li>
+  <li class="news-item">
+    <span class="news-date">Sept 2026</span>
+    A paper titled <em>Beyond free variation: A probabilistic hierarchy in cumulative intensifying prefixation</em>, co-authored with M. Verdelli, accepted for presentation at the workshop <a href="https://evalact.github.io/index.html"><em>Evaluative morphology in action: Frameworks in dialogue</em></a> in Brno.
+  </li>
+  <li class="news-item">
     <span class="news-date">Jun 2026</span>
     Presented a paper titled <em>Linearization in cumulative intensifying prefixation: An information-theoretic perspective</em>, co-authored with M. Verdelli, at the <a  href="https://nytud.hun-ren.hu/en/event/22nd-international-morphology-meeting-2"><em>22nd International Morphology Meeting</em></a> in Budapest.
   </li>

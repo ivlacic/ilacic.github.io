@@ -1,7 +1,7 @@
 ---
 title: "A paradigmatic perspective on semantic transparency in derivation"
 collection: publications
-date: 2026-10-06
+date: 2026-10-09
 authors: "Ivan Lacić & Richard Huyghe"
 year: "in review"
 abstract: |

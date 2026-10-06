@@ -1,9 +1,68 @@
---- layout: archive title: "Publications" permalink: /publications/ author_profile: true --- {% assign pubs = site.publications | sort: "date" | reverse %} {% for p in pubs %}
-{{ p.title }}
-{% if p.authors or p.year %}
-{{ p.authors }}{% if p.authors and p.year %} {% endif %}{% if p.year %}({{ p.year }}){% endif %}
-{% endif %}
+---
+layout: archive
+title: "Publications"
+permalink: /publications/
+author_profile: true
+---
+
+<style>
+  .pub {
+    border-left: 3px solid #4f9a5a;
+    margin: 0 0 0.9em;
+    padding: 0.35em 0 0.35em 0.9em;
+  }
+  .pub > summary {
+    cursor: pointer;
+    list-style: none;
+    display: grid;
+    grid-template-columns: 1em 1fr;
+    gap: 0.4em;
+    line-height: 1.45;
+  }
+  .pub-title { display: block; font-weight: 600; }
+  .pub-meta { display: block; font-size: 0.85em; opacity: 0.75; margin-top: 0.15em; }
+  .pub > summary::-webkit-details-marker { display: none; }
+  .pub > summary::before {
+    content: "▸";
+    color: #4f9a5a;
+    transition: transform 0.15s ease;
+  }
+  .pub[open] > summary::before { transform: rotate(90deg); }
+  .pub > summary:focus-visible { outline: 2px solid #4f9a5a; outline-offset: 3px; }
+  .pub-abstract { margin: 0.7em 0 0.3em 1.4em; font-size: 0.92em; line-height: 1.65; }
+  @media (prefers-reduced-motion: reduce) {
+    .pub > summary::before { transition: none; }
+  }
+</style>
+
+{% assign pubs = site.publications | sort: "date" | reverse %}
+{% for p in pubs %}
+<details class="pub">
+  <summary>
+    <span>
+      <span class="pub-title">{{ p.title }}</span>
+      {% if p.authors or p.year %}
+      <span class="pub-meta">{{ p.authors }}{% if p.authors and p.year %} {% endif %}{% if p.year %}({{ p.year }}){% endif %}</span>
+      {% endif %}
+    </span>
+  </summary>
+  <div class="pub-abstract">
+    {% if p.abstract %}{{ p.abstract | markdownify }}{% else %}<p><em>Abstract coming soon.</em></p>{% endif %}
+  </div>
+</details>
 {% endfor %}
+
+<script>
+  window.addEventListener('load', function () {
+    if (window.MathJax && window.MathJax.typesetPromise) { MathJax.typesetPromise(); return; }
+    if (window.MathJax) return;
+    window.MathJax = { tex: { inlineMath: [['$', '$'], ['\\(', '\\)']] } };
+    var s = document.createElement('script');
+    s.src = 'https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml.js';
+    s.async = true;
+    document.head.appendChild(s);
+  });
+</script>
 
 
 

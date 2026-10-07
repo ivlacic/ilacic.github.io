@@ -51,10 +51,6 @@ redirect_from:
   </li>
   <li class="news-item">
     <span class="news-date">Dec 2025</span>
-    PhD dissertation positively reviewed; defense scheduled for April.
-  </li>
-  <li class="news-item">
-    <span class="news-date">Dec 2025</span>
     Delivered an invited lecture titled <a href="https://www.uzh.ch/de/events/agenda.html?group=70&event=65276"><em>Affix rivalry and ordering in Italian: Quantitative evidence from intensifying prefixation</em></a> at the University of Zurich (host: F. Gardani).
   </li>
   <li class="news-item extra-news" style="display:none;">

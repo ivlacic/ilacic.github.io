@@ -9,39 +9,18 @@ redirect_from:
 
 <div class="page-spacer"></div>
 <div class="intro-text">
-<p><span class="emoji">👋🏼</span> I'm a postdoctoral researcher in the <a href="https://www.upf.edu/web/glif">Formal Linguistics Research Group (GLiF)</a> at Pompeu Fabra University, working in collaboration with <a href="https://www.upf.edu/web/mcnally">Louise McNally</a>.</p> 
-<p><span class="emoji"></span> I received my PhD from the University of Bologna in April 2026, with a <a href="https://amsdottorato.unibo.it/id/eprint/12754/">thesis</a> on empirical approaches to rivalry in Italian intensifying prefixation, supervised by <a href="https://scholar.google.com/citations?user=c6FoVRsAAAAJ&hl=en">Nicola Grandi</a> and <a href="https://www.unibo.it/sitoweb/francesca.masini/en">Francesca Masini</a>.</p>
-<p><span class="emoji"></span> My research interests lie primarily in derivational (evaluative) morphology, morphosemantics, and quantitative/computational approaches to natural language.</p>
+<p> I'm a postdoctoral researcher in the <a href="https://www.upf.edu/web/glif">Formal Linguistics Research Group (GLiF)</a> at Pompeu Fabra University, working in collaboration with <a href="https://www.upf.edu/web/mcnally">Louise McNally</a>.</p> 
+<p> I received my PhD from the University of Bologna in April 2026, with a <a href="https://amsdottorato.unibo.it/id/eprint/12754/">thesis</a> on empirical approaches to rivalry in Italian intensifying prefixation, supervised by <a href="https://scholar.google.com/citations?user=c6FoVRsAAAAJ&hl=en">Nicola Grandi</a> and <a href="https://www.unibo.it/sitoweb/francesca.masini/en">Francesca Masini</a>.</p>
+<p> My research interests lie primarily in derivational (evaluative) morphology, morphosemantics, and quantitative/computational approaches to natural language.</p>
 </div>
-
-## Current projects
-
-<ul class="news-list" id="news-list">
-  <li class="news-item">
-    <span class="news-date">Proposal</span>
-    Finalizing my MSCA fellowship proposal, hosted by <a href="https://www.upf.edu/web/mcnally">Louise McNally</a>.
-  </li>
-  <li class="news-item">
-    <span class="news-date">Research</span>
-    Investigating how derivational paradigms shape the semantic transparency of complex words with <a href="https://www.unifr.ch/llf/fr/departement/equipe/richard-huyghe.html">R. Huyghe</a>.
-  </li>
-  <li class="news-item">
-    <span class="news-date">Research</span>
-    Studying the usage-based factors governing the ordering of intensifying prefixes in cumulative constructions with M. Verdelli.
-  </li>
-  <li class="news-item">
-    <span class="news-date">Workshop</span>
-    Co-organizing the workshop <a href="https://www.upf.edu/web/glif/semantics-and-w-f-workshop"><em>Semantics and Word Formation</em></a> in Barcelona. The <a  href="https://www.upf.edu/web/glif/semantics-and-w-f-workshop-cfp">call for papers</a> is now open!
-  </li>
-  <li class="news-item">
-    <span class="news-date">Group</span>
-    Launching a morphology discussion group at UPF in Fall 2026.
-  </li>
-</ul>
 
 ## News
 
 <ul class="news-list" id="news-list">
+ <li class="news-item">
+    <span class="news-date">Sept 2026</span>
+    Launched a morphology discussion group at UPF. Feel free to contact me if you're interested in joining.
+  </li> 
   <li class="news-item">
     <span class="news-date">Sept 2026</span>
     A paper titled <em>Paradigmatic, not dyadic: Revisiting the role of semantic transparency in complex word processing</em>, co-authored with R. Huyghe, accepted for presentation at the <a href="https://cpl2026.sites.uu.nl/"><em>Computational Psycholinguistics Meeting 2026</em></a> in Utrecht.
@@ -49,6 +28,10 @@ redirect_from:
   <li class="news-item">
     <span class="news-date">Sept 2026</span>
     A paper titled <em>Beyond free variation: A probabilistic hierarchy in cumulative intensifying prefixation</em>, co-authored with M. Verdelli, accepted for presentation at the workshop <a href="https://evalact.github.io/index.html"><em>Evaluative morphology in action: Frameworks in dialogue</em></a> in Brno.
+  </li>
+  <li class="news-item">
+    <span class="news-date">Aug 2026</span>
+    Co-organizing the workshop <a href="https://www.upf.edu/web/glif/semantics-and-w-f-workshop"><em>Semantics and Word Formation</em></a> in Barcelona. The <a  href="https://www.upf.edu/web/glif/semantics-and-w-f-workshop-cfp">call for papers</a> is now open!
   </li>
   <li class="news-item">
     <span class="news-date">Jun 2026</span>

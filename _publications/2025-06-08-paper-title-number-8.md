@@ -1,5 +1,5 @@
 ---
-title: "*InTens* – a dataset of Italian intensified derivatives. Description and application in a productivity study"
+title: "InTens – a dataset of Italian intensified derivatives. Description and application in a productivity study"
 collection: publications
 date: 2026-09-29
 authors: "Ivan Lacić"

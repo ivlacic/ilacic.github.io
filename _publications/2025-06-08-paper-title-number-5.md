@@ -1,13 +1,10 @@
 ---
-title: "Paper Title Number 5, with math $$E=mc^2$$"
+title: "Systematic or arbitrary? Quantifying distributional structure in affix rivalry through Italian intensifying prefixes"
 collection: publications
-category: conferences
-permalink: /publication/2024-02-17-paper-title-number-4
-excerpt: 'This paper is about a famous math equation, $$E=mc^2$$'
-date: 2024-02-17
-venue: 'GitHub Journal of Bugs'
-paperurl: 'http://academicpages.github.io/files/paper3.pdf'
-citation: 'Your Name, You. (2024). &quot;Paper Title Number 3.&quot; <i>GitHub Journal of Bugs</i>. 1(3).'
+date: 2026-10-02
+authors: "Ivan Lacić"
+year: "in review"
+journal: "Morphology"
+abstract: |
+  A central question in research on morphological competition is to what extent the distribution of rival affixes is governed by systematic distributional regularities or by arbitrary lexeme-specific         conventions – and how these two forces can be disentangled empirically. This study addresses this question through the case of six Italian intensifying prefixes – arci-, extra-, iper -, stra-, super -,     and ultra- – in adjectival derivation, a domain of evaluative morphology where rivalry has received almost no systematic attention. Using a dataset of 2,700 adjectival derivative tokens annotated for       formal (phonological, syntactic, semantic) and usage-based (base–prefix association, base age, frequency, polarity) properties, we compare three machine-learning models that represent increasingly          abstract views of what conditions prefix choice: (i) a model that includes item-specific base-prefix association scores, capturing en- trenched pairwise conventions; (ii) a model that relies exclusively    on generalizable base-level properties; and (iii) a type-based model that removes token-frequency effects entirely. The first two models perform comparably, indicating that coarse- grained base             properties recover nearly all of the distributional signal captured by item-specific associations. The type-based model, by contrast, shows a sharp performance drop with a restructured predictor            hierarchy, suggesting that much of the systematicity in intensifying prefix rivalry is usage-driven rather than purely categorical. These findings point to a two-tier architecture of affix rivalry in       which systematic usage-based constraints structure the primary distributional signal, while item-specific entrenchment plays a secondary, complementary role
 ---
-
-Using [MathJax](https://www.mathjax.org/) in the description is supported - $$E=mc^2$$ - however, the use must be mindful that the default delimiters are `$$...$$` and `\\[...\\]` which differs from the `$...$` that is typically expected.

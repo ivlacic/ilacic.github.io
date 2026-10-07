@@ -1,7 +1,7 @@
 ---
 title: "*InTens* – a dataset of Italian intensified derivatives. Description and application in a productivity study"
 collection: publications
-date: 2026-09-29
+date: 2026-09-28
 authors: "Ivan Lacić"
 year: "2025"
 journal: "Proceedings of the 5th Int. Workshop on Resources and Tools for Derivational Morphology"

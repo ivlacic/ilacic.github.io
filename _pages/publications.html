@@ -41,8 +41,8 @@ author_profile: true
   <summary>
     <span>
       <span class="pub-title">{{ p.title }}</span>
-      {% if p.authors or p.year %}
-      <span class="pub-meta">{{ p.authors }}{% if p.authors and p.year %} {% endif %}{% if p.year %}({{ p.year }}){% endif %}</span>
+      {% if p.authors or p.year or p.journal %}
+      <span class="pub-meta">{{ p.authors }}{% if p.year %} ({{ p.year }}){% endif %}{% if p.journal %}. <em>{{ p.journal }}</em>{% endif %}</span>
       {% endif %}
     </span>
   </summary>
@@ -63,6 +63,5 @@ author_profile: true
     document.head.appendChild(s);
   });
 </script>
-
 
 

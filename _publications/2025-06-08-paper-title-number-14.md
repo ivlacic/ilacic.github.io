@@ -1,7 +1,7 @@
 ---
 title: "Intensificazione degli aggettivi ai tempi della pandemia: analisi di un corpus di articoli giornalistici"
 collection: publications
-date: 2026-09-25
+date: 2026-09-24
 authors: "Ivan Lacić"
 year: "2022"
 journal: "Italica Belgradensia"

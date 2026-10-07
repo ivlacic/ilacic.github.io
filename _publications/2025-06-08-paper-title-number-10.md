@@ -1,7 +1,7 @@
 ---
 title: "An insight into the Croatian degree modifier paradigm and its clustering profiles"
 collection: publications
-date: 2026-09-27
+date: 2026-09-26
 authors: "Ivan Lacić"
 year: "2024"
 journal: "Suvremena lingvistika"

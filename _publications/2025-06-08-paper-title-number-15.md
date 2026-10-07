@@ -1,7 +1,7 @@
 ---
 title: "Psovke u drami 'Predstava Hamleta u selu Mrduša Donja': kontrastivna analiza izvornika i prijevoda na istromletački dijalekt"
 collection: publications
-date: 2026-09-24
+date: 2026-09-23
 authors: "Ivan Lacić"
 year: "2021"
 journal: "La rappresentazione dell’Amleto nel villaggio di Merduscia di Sotto ‒ Prijevod na istromletački dijalekt drame Ive Brešana Predstava Hamleta u selu Mrduša Donja"

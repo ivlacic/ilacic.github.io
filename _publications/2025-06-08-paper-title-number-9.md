@@ -1,7 +1,7 @@
 ---
 title: "Approximation by morphological means: exploring prefixoids *kvazi*(-), *nadri*(-), *nazovi*(-), and *pseudo*(-) in Croatian."
 collection: publications
-date: 2026-09-28
+date: 2026-09-27
 authors: "Ivan Lacić"
 year: "2025"
 journal: "Zeitschrift für Wortbildung/Journal of Word Formation"

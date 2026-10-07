@@ -90,20 +90,19 @@ redirect_from:
   margin-bottom: 10px;
   border-left: 3.2px solid #ccdbd3;
   line-height: 1.5;
-  /* hanging indent: dates form a column, text lines up after them */
+  /* room on the left for the date column */
   padding-left: calc(10px + 5.6em);
-  text-indent: -5.6em;
 }
 .news-date {
-  display: inline-block;
+  float: left;
   width: 5.6em;
-  text-indent: 0;
+  margin-left: -5.6em;
   font-weight: bold;
   color: #007532;
 }
 @media (max-width: 600px) {
-  .news-item { padding-left: 10px; text-indent: 0; }
-  .news-date { display: block; width: auto; }
+  .news-item { padding-left: 10px; }
+  .news-date { float: none; display: block; width: auto; margin-left: 0; }
 }
 .btn-wrap { text-align: left; margin-top: 15px; }
 .more-btn {

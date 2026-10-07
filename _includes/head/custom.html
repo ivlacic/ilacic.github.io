@@ -14,13 +14,13 @@
 <link rel="icon" href="/images/favicon.ico"/>
 <meta name="theme-color" content="#ffffff"/>
 
-<!-- Fonts: Inter for text, Newsreader for headings -->
+<!-- Font: Inter everywhere -->
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&family=Newsreader:opsz,wght@6..72,500;6..72,600&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&display=swap" rel="stylesheet">
 
 <style>
-  /* Text, menu and sidebar: Inter */
+  /* Text, menu, sidebar, headings: Inter */
   body,
   .masthead,
   .site-title,
@@ -31,21 +31,23 @@
   .author__urls li,
   .author__urls a,
   .author__pronouns,
-  .page__content {
-    font-family: "Inter", -apple-system, "Segoe UI", sans-serif !important;
-  }
-
-  /* Headings and your name: Newsreader */
+  .page__content,
   h1, h2, h3,
   .page__title,
   .author__name {
-    font-family: "Newsreader", Georgia, serif !important;
-    font-weight: 600;
-    letter-spacing: -0.01em;
+    font-family: "Inter", -apple-system, "Segoe UI", sans-serif !important;
+  }
+
+  /* Headings and your name: bold, slightly tightened */
+  h1, h2, h3,
+  .page__title,
+  .author__name {
+    font-weight: 700;
+    letter-spacing: -0.015em;
   }
 
   /* Slightly larger name in the sidebar */
-  .author__name { font-size: 1.2em !important; }
+  .author__name { font-size: 1.25em !important; }
 </style>
 
 <!-- end custom head snippets -->

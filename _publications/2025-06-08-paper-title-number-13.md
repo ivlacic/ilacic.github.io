@@ -1,7 +1,7 @@
 ---
 title: "Competition in evaluation: An empirical study of rivalry in Italian intensifying prefixation"
 collection: publications
-date: 2026-09-31
+date: 2026-09-30
 authors: "Ivan Lacić"
 year: "2026"
 journal: "PhD dissertation"

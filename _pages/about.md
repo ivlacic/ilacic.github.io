@@ -18,15 +18,15 @@ redirect_from:
 
 <ul class="news-list" id="news-list">
  <li class="news-item">
-    <span class="news-date">Sept 2026</span>
+    <span class="news-date">Sep 2026</span>
     Launched a morphology discussion group at UPF. Feel free to contact me if you're interested in joining.
   </li> 
   <li class="news-item">
-    <span class="news-date">Sept 2026</span>
+    <span class="news-date">Sep 2026</span>
     A paper titled <em>Paradigmatic, not dyadic: Revisiting the role of semantic transparency in complex word processing</em>, co-authored with R. Huyghe, accepted for presentation at the <a href="https://cpl2026.sites.uu.nl/"><em>Computational Psycholinguistics Meeting 2026</em></a> in Utrecht.
   </li>
   <li class="news-item">
-    <span class="news-date">Sept 2026</span>
+    <span class="news-date">Sep 2026</span>
     A paper titled <em>Beyond free variation: A probabilistic hierarchy in cumulative intensifying prefixation</em>, co-authored with M. Verdelli, accepted for presentation at the workshop <a href="https://evalact.github.io/index.html"><em>Evaluative morphology in action: Frameworks in dialogue</em></a> in Brno.
   </li>
   <li class="news-item">
@@ -80,7 +80,7 @@ redirect_from:
 </ul>
 
 <div class="btn-wrap">
-  <button class="more-btn" id="toggle-btn" onclick="toggleNews()">Show More ↓</button>
+  <button class="more-btn" id="toggle-btn" onclick="toggleNews()" aria-expanded="false">Older news ↓</button>
 </div>
 
 <style>
@@ -88,14 +88,22 @@ redirect_from:
 .news-item {
   font-size: 0.95em;
   margin-bottom: 10px;
-  padding-left: 10px;
   border-left: 3.2px solid #ccdbd3;
   line-height: 1.5;
+  /* hanging indent: dates form a column, text lines up after them */
+  padding-left: calc(10px + 5.6em);
+  text-indent: -5.6em;
 }
 .news-date {
+  display: inline-block;
+  width: 5.6em;
+  text-indent: 0;
   font-weight: bold;
   color: #007532;
-  margin-right: 10px;
+}
+@media (max-width: 600px) {
+  .news-item { padding-left: 10px; text-indent: 0; }
+  .news-date { display: block; width: auto; }
 }
 .btn-wrap { text-align: left; margin-top: 15px; }
 .more-btn {
@@ -113,12 +121,12 @@ redirect_from:
 function toggleNews() {
   var items = document.querySelectorAll('.extra-news');
   var btn = document.getElementById('toggle-btn');
-  var expanded = btn.getAttribute('data-expanded') === 'true';
+  var expanded = btn.getAttribute('aria-expanded') === 'true';
   items.forEach(function(item) {
     item.style.display = expanded ? 'none' : 'list-item';
   });
-  btn.textContent = expanded ? 'Show More ↓' : 'Show Less ↑';
-  btn.setAttribute('data-expanded', !expanded);
+  btn.textContent = expanded ? 'Older news ↓' : 'Show less ↑';
+  btn.setAttribute('aria-expanded', String(!expanded));
 }
 </script>
 

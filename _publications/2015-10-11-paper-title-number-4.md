@@ -1,5 +1,5 @@
 ---
-title: "A paradigmatic perspective on semantic transparency in derivation"
+title: "How rivalrous are rivals? A distributional semantic approach to gradient competition in evaluative morphology"
 collection: publications
 date: 2026-10-01
 authors: "Ivan Lacić"

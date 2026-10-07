@@ -1,5 +1,5 @@
 ---
-title: "An insight into the Croatian degree modifier paradigm and its clustering profiles."
+title: "An insight into the Croatian degree modifier paradigm and its clustering profiles"
 collection: publications
 date: 2026-09-27
 authors: "Ivan Lacić"

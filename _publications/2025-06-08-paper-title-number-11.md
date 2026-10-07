@@ -1,7 +1,7 @@
 ---
 title: "A corpus-based study of maximizer–adjective patterns in Croatian"
 collection: publications
-date: 2026-09-26
+date: 2026-09-25
 authors: "Ivan Lacić"
 year: "2024"
 journal: "Language Sciences"

@@ -47,7 +47,7 @@ author_profile: true
 <details class="pub">
   <summary>
     <span>
-      <span class="pub-title">{{ p.title }}</span>
+      <span class="pub-title">{{ p.title | markdownify | remove: '<p>' | remove: '</p>' | strip }}</span>
       {% if p.authors or p.year or p.journal %}
       <span class="pub-meta">{{ p.authors }}{% if p.year %} ({{ p.year }}){% endif %}{% if p.journal %}. <em>{{ p.journal }}</em>{% endif %}</span>
       {% endif %}

@@ -1,1 +1,10 @@
-
+---
+title: "Approximation by morphological means: exploring prefixoids *kvazi*(-), *nadri*(-), *nazovi*(-), and *pseudo*(-) in Croatian."
+collection: publications
+date: 2026-09-28
+authors: "Ivan Lacić"
+year: "2025"
+journal: "Zeitschrift für Wortbildung/Journal of Word Formation"
+abstract: |
+  This study explores the phenomenon of affix rivalry within the domain of morphological approximation in Croatian, focusing on the prefixoids *kvazi*(-), *nadri*(-), *nazovi*(-), and *pseudo*(-) as they     attach to nominal bases. These prefixoids can be classified as privative, as the derivatives they produce do not fully embody the core characteristics conveyed by their morphological bases. To analyze      the rivalry among the prefixoids, the study evaluates their productivity, collocational behavior, and distribution across various textual genres, utilizing data from the CLASSLA-web.hr corpus. The          findings suggest significant disparities in the productivity and collocational behavior of the prefixoids, with *nazovi*(-) and *kvazi*(-) exhibiting the highest productivity and highly overlapping         collocational behavior, whereas *pseudo*(-) and *nadri*(-) reveal more specialized usage patterns. Additionally, a random sample of 500 tokens per prefixoid is annotated for semantic values. Again,         *nazovi*(-) and *kvazi*(-) demonstrate substantial overlap, particularly in their mutual application as means for subjective depreciative evaluation, underscoring the insufficiency or pretentiousness of    the subject. *Nadri*(-) is more narrowly focused on legal domains, while *pseudo*(-), with its proclivity for scientific contexts, remains distinct but conceptually adjacent to *kvazi*(-) in contexts       where imitation is highlighted without necessarily invoking deceit. Overall, the prefixoids present a complex network of interrelationships, yet each prefixoid also establishes a specific niche,            balancing between shared semantic roles and distinct, context-dependent uses.
+---

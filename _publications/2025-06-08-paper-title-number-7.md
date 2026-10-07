@@ -1,7 +1,7 @@
 ---
 title: "Deriving semantic classes of Italian adjectives via word embeddings: a large-scale investigation"
 collection: publications
-date: 2026-09-30
+date: 2026-09-29
 authors: "Ivan Lacić & Ludovica Pannitto"
 year: "2025"
 journal: "Proceedings of the 13th Global Wordnet Conference"

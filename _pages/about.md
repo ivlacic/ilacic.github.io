@@ -104,6 +104,14 @@ redirect_from:
   .news-item { padding-left: 10px; }
   .news-date { float: none; display: block; width: auto; margin-left: 0; }
 }
+.news-item a,
+.news-item a:visited {
+  color: #007532 !important;
+  text-decoration: none;
+}
+.news-item a:hover {
+  text-decoration: underline;
+}
 .btn-wrap { text-align: left; margin-top: 15px; }
 .more-btn {
   border: 1px solid #007532;

@@ -24,11 +24,13 @@ redirect_from:
   <li class="news-item">
     <span class="news-date">Sep 2026</span>
     A paper titled <em>Paradigmatic, not dyadic: Revisiting the role of semantic transparency in complex word processing</em>, co-authored with R. Huyghe, accepted for presentation at the <a href="https://cpl2026.sites.uu.nl/"><em>Computational Psycholinguistics Meeting 2026</em></a> in Utrecht.
+    <a class="news-tag" href="/files/CPL_2026_camera_ready.pdf" target="_blank" rel="noopener">[abstract]</a>
   </li>
   <li class="news-item">
     <span class="news-date">Sep 2026</span>
     A paper titled <em>Beyond free variation: A probabilistic hierarchy in cumulative intensifying prefixation</em>, co-authored with M. Verdelli, accepted for presentation at the workshop <a href="https://evalact.github.io/index.html"><em>Evaluative morphology in action: Frameworks in dialogue</em></a> in Brno.
-  </li>
+    <a class="news-tag" href="/files/EvalMo_2026_abstract.pdf" target="_blank" rel="noopener">[abstract]</a>
+  </li>    
   <li class="news-item">
     <span class="news-date">Aug 2026</span>
     Co-organizing the workshop <a href="https://www.upf.edu/web/glif/semantics-and-w-f-workshop"><em>Semantics and Word Formation</em></a> in Barcelona. The <a  href="https://www.upf.edu/web/glif/semantics-and-w-f-workshop-cfp">call for papers</a> is now open!

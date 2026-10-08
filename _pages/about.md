@@ -124,6 +124,12 @@ redirect_from:
   font-size: 0.75em;
   background: none;
 }
+.news-tag {
+  font-size: 0.8em;
+  font-style: normal;
+  white-space: nowrap;
+  margin-left: 0.2em;
+}
 </style>
 
 <script>

@@ -10,7 +10,7 @@ redirect_from:
 <div class="page-spacer"></div>
 <div class="intro-text">
 <p> I'm a postdoctoral researcher in the <a href="https://www.upf.edu/web/glif">Formal Linguistics Research Group (GLiF)</a> at Pompeu Fabra University, working in collaboration with <a href="https://www.upf.edu/web/mcnally">Louise McNally</a>.</p> 
-<p> I received my PhD from the University of Bologna in April 2026, with a <a href="https://amsdottorato.unibo.it/id/eprint/12754/">thesis</a> on empirical approaches to rivalry in Italian intensifying prefixation, supervised by <a href="https://scholar.google.com/citations?user=c6FoVRsAAAAJ&hl=en">Nicola Grandi</a> and <a href="https://www.unibo.it/sitoweb/francesca.masini/en">Francesca Masini</a>.</p>
+<p> I received my PhD from the University of Bologna in April 2026, with a <a href="https://amsdottorato.unibo.it/id/eprint/12754/">thesis</a> on empirical approaches to rivalry in Italian intensifying prefixation, supervised by Nicola Grandi and Francesca Masini.</p>
 <p> My research interests lie primarily in derivational (evaluative) morphology, morphosemantics, and quantitative/computational approaches to natural language.</p>
 </div>
 

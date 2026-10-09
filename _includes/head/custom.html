@@ -57,6 +57,26 @@
     --global-base-color                : #8f3a38;
     --global-masthead-link-color-hover : #8f3a38;
     --global-link-color-hover          : #8f3a38;
+    --global-border-color              : #bdb5aa;  /* warm divider lines */
+  }
+
+  /* Menu: thin red underline on hover and under the current page */
+  html:not([data-theme="dark"]) .greedy-nav .visible-links a:before {
+    background: #b55956;
+    height: 2px;
+  }
+  .greedy-nav .visible-links a.is-current:before {
+    -webkit-transform: scaleX(1);
+            transform: scaleX(1);
+  }
+
+  /* Sidebar icons in muted red */
+  html:not([data-theme="dark"]) .author__urls li i,
+  html:not([data-theme="dark"]) .author__urls li .ai,
+  html:not([data-theme="dark"]) .author__urls li .fa,
+  html:not([data-theme="dark"]) .author__urls li .fas,
+  html:not([data-theme="dark"]) .author__urls li .fab {
+    color: #b55956 !important;
   }
 
   /* Footer: deep red with white text (replaces the old green) */

@@ -12,7 +12,7 @@
 <link rel="icon" type="image/png" href="{{ base_path }}/images/favicon-192x192.png" sizes="192x192"/>
 <link rel="manifest" href="{{ base_path }}/images/manifest.json"/>
 <link rel="icon" href="/images/favicon.ico"/>
-<meta name="theme-color" content="#ffffff"/>
+<meta name="theme-color" content="#e6ded1"/>
 
 <!-- Font: Inter everywhere -->
 <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -47,7 +47,22 @@
   }
 
   /* Slightly larger name in the sidebar */
-  .author__name { font-size: 1.2em !important; }
+  .author__name { font-size: 1.35em !important; }
+
+  /* Colours (light mode only, dark mode untouched) */
+  html:not([data-theme="dark"]) body,
+  html:not([data-theme="dark"]) .masthead,
+  html:not([data-theme="dark"]) .greedy-nav,
+  html:not([data-theme="dark"]) .page__footer {
+    background-color: #e6ded1 !important;
+  }
+  html:not([data-theme="dark"]) .page__content a,
+  html:not([data-theme="dark"]) .page__content a:visited {
+    color: #8f3a38 !important;
+  }
+  html:not([data-theme="dark"]) .author__urls a:hover {
+    color: #8f3a38 !important;
+  }
 </style>
 
 <!-- end custom head snippets -->

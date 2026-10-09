@@ -90,7 +90,7 @@ redirect_from:
 .news-item {
   font-size: 0.95em;
   margin-bottom: 10px;
-  border-left: 3.2px solid #ccdbd3;
+  border-left: 3.2px solid #d4b5ab;
   line-height: 1.5;
   /* room on the left for the date column */
   padding-left: calc(10px + 5.6em);
@@ -100,7 +100,7 @@ redirect_from:
   width: 5.6em;
   margin-left: -5.6em;
   font-weight: bold;
-  color: #007532;
+  color: #8f3a38;
 }
 @media (max-width: 600px) {
   .news-item { padding-left: 10px; }
@@ -108,27 +108,27 @@ redirect_from:
 }
 .news-item a,
 .news-item a:visited {
-  color: #007532 !important;
+  color: #8f3a38 !important;
   text-decoration: none;
 }
 .news-item a:hover {
   text-decoration: underline;
-}
-.btn-wrap { text-align: left; margin-top: 15px; }
-.more-btn {
-  border: 1px solid #007532;
-  color: #007532;
-  padding: 3px 12px;
-  border-radius: 12px;
-  cursor: pointer;
-  font-size: 0.75em;
-  background: none;
 }
 .news-tag {
   font-size: 0.8em;
   font-style: normal;
   white-space: nowrap;
   margin-left: 0.2em;
+}
+.btn-wrap { text-align: left; margin-top: 15px; }
+.more-btn {
+  border: 1px solid #b55956;
+  color: #8f3a38;
+  padding: 3px 12px;
+  border-radius: 12px;
+  cursor: pointer;
+  font-size: 0.75em;
+  background: none;
 }
 </style>
 

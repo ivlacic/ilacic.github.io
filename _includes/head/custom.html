@@ -49,13 +49,26 @@
   /* Slightly larger name in the sidebar */
   .author__name { font-size: 1.35em !important; }
 
-  /* Colours (light mode only, dark mode untouched) */
-  html:not([data-theme="dark"]) body,
-  html:not([data-theme="dark"]) .masthead,
-  html:not([data-theme="dark"]) .greedy-nav,
-  html:not([data-theme="dark"]) .page__footer {
-    background-color: #e6ded1 !important;
+  /* Colours: light mode only (dark mode untouched).
+     Changing the theme's own colour settings recolours every part
+     of the site that uses them: page, menu bar, menu items. */
+  html:not([data-theme="dark"]) {
+    --global-bg-color                  : #e6ded1;
+    --global-base-color                : #8f3a38;
+    --global-masthead-link-color-hover : #8f3a38;
+    --global-link-color-hover          : #8f3a38;
   }
+
+  /* Footer: deep red with white text (replaces the old green) */
+  html:not([data-theme="dark"]) .page__footer {
+    background-color: #8f3a38 !important;
+    color: #ffffff !important;
+  }
+  html:not([data-theme="dark"]) .page__footer a {
+    color: #ffffff !important;
+  }
+
+  /* Links in the page text */
   html:not([data-theme="dark"]) .page__content a,
   html:not([data-theme="dark"]) .page__content a:visited {
     color: #8f3a38 !important;
